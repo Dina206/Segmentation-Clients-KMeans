@@ -1,21 +1,19 @@
-# Segmentation des clients avec K-Means
+# Projet Machine Learning - Analyse des Clients
 
-Projet d'apprentissage automatique permettant de segmenter les clients selon leurs caractéristiques.
+Projet académique réalisé dans le cadre de l'initiation à l'intelligence artificielle et au machine learning.
 
 ## Objectifs
-
-* Prétraitement des données
-* Visualisation des données
-* Application de l'algorithme K-Means
-* Analyse des groupes obtenus
+- Prétraitement et analyse des données
+- Visualisation des données
+- Application de méthodes d'apprentissage supervisé
+- Application de l'algorithme K-Means pour la segmentation des clients
+- Interprétation des résultats obtenus
 
 ## Technologies utilisées
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
 
-* Python
-* Pandas
-* Matplotlib
-* Scikit-learn
-
-## Résultat
-
-Identification de plusieurs profils de clients afin d'améliorer les stratégies marketing.
+## Résultats
+Analyse des comportements clients et identification de groupes de clients présentant des caractéristiques similaires.
